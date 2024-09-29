@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70882236-cfed-47ed-ad7e-e8d05b2ba338" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/src/config/viewEngine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/src/controller/HomeController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/src/public/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/src/routes/web.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/src/views/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/src/views/sample.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackEnd0/src/views/sample.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/_config.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/flat-color-icons_google.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logos_facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/monnica.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nuxt00/composables/useAuthUser.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nuxt00/plugins/firebaseAuth.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nuxt00/public/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nuxt3-firebase-saas-master/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nuxt3-firebase-saas-master/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nuxt3-firebase-saas-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nuxt3-firebase-saas-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nuxt3-firebase-saas-master/.idea/nuxt3-firebase-saas-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nuxt3-firebase-saas-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nuxt3-firebase-saas-master/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pair/game-pair/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackEnd0/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BackEnd0/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ziarz-fe/fonts/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,14 +32,32 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/profile.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="139">
-                  <caret line="90" column="30" lean-forward="true" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+                <state relative-caret-position="244">
+                  <caret line="97" column="59" lean-forward="true" selection-start-line="97" selection-start-column="59" selection-end-line="97" selection-end-column="59" />
                   <folding>
                     <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/fonts/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ziarz-fe/fonts/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
                 </state>
               </provider>
             </entry>
@@ -129,8 +108,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/_main.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="484">
-                  <caret line="758" column="29" selection-start-line="758" selection-start-column="29" selection-end-line="758" selection-end-column="29" />
+                <state relative-caret-position="109">
+                  <caret line="733" column="3" lean-forward="true" selection-start-line="733" selection-start-column="3" selection-end-line="734" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -163,7 +142,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ziarz-fe" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -178,6 +157,7 @@
         <option value="$PROJECT_DIR$/css/_config.scss" />
         <option value="$PROJECT_DIR$/pages/profile.html" />
         <option value="$PROJECT_DIR$/css/_main.scss" />
+        <option value="$PROJECT_DIR$/fonts/index.html" />
       </list>
     </option>
   </component>
@@ -195,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,19 +186,17 @@
             <path>
               <item name="Ziaza_FE" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ziaza_FE" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ziaza_FE" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ziaza_FE" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="style.scss" type="620a8d5e:NestingTreeNode" />
+              <item name="ziarz-fe" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,18 +238,36 @@
       <updated>1726295809340</updated>
       <workItem from="1726295810671" duration="22254000" />
       <workItem from="1726323907969" duration="16000" />
+      <workItem from="1727591544843" duration="271000" />
     </task>
+    <task id="LOCAL-00001" summary="add react">
+      <created>1727591624122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727591624122</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add react">
+      <created>1727591777149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727591777149</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22270000" />
+    <option name="totallyTimeSpent" value="22541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -281,7 +278,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -291,6 +288,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="add react" />
+    <option name="LAST_COMMIT_MESSAGE" value="add react" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/_animate.scss" />
@@ -351,13 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/_main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="758" column="29" selection-start-line="758" selection-start-column="29" selection-end-line="758" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -365,13 +361,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="733" column="3" lean-forward="true" selection-start-line="733" selection-start-column="3" selection-end-line="734" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="90" column="30" lean-forward="true" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+        <state relative-caret-position="244">
+          <caret line="97" column="59" lean-forward="true" selection-start-line="97" selection-start-column="59" selection-end-line="97" selection-end-column="59" />
           <folding>
             <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ziarz-fe/fonts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
