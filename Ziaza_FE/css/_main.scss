@@ -2,19 +2,19 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0;
+  padding: 11px 0;
   .header_logo{
     @media(max-width: 991px){
       order: 2;
       img{
-        width: 70px;
+        width: 63px;
       }
     }
   }
   .nav_btn_mb{
     vertical-align: -1px;
     position: relative;
-    width: 72px;
+    width: 71px;
     height: 12px;
     padding: 14px 0;
     margin-left: 5px;
